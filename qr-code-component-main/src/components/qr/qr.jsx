@@ -7,7 +7,7 @@ function QR() {
 
   return (
     <div className="qr-container">
-      <img className="qr-code" src={qrImage} alr="qr image" />
+      <img className="qr-code" src={qrImage} alt="qr image" />
       <h1 class="qr-title">
         Improve your front-end skills by building projects
       </h1>
